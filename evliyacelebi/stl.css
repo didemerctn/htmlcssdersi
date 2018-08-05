@@ -1,0 +1,19 @@
+/* bu bir yorum class*/
+.kodadi2023 {
+	font-size: 25px;
+	font-family: Lucida Calligraphy;
+	color: red;
+	text-align: center;
+}
+/* Alttaki örnek etikete etki eder*/
+h1 {
+	font-size: 25px;
+	font-family: Lucida Calligraphy;
+	color: purple;
+}
+.resim {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 250px;
+}
